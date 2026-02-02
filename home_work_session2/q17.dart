@@ -5,9 +5,9 @@ void main() {
   dynamic data = "Starting as a string";
   print(data);
   
-  data = 100; // Changed to int
+  data = 100; 
   print(data);
   
-  data = true; // Changed to bool
+  data = true; 
   print(data);
 }

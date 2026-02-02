@@ -6,9 +6,9 @@
 
 void main() {
   
-  var name = "Gemini"; 
+  var name = "welcome"; 
 
 
-dynamic value = "Gemini"; 
+dynamic value = "welcome"; 
   value = 10;
   }
